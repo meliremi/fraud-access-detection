@@ -100,6 +100,3 @@ Scanne les résultats et signale les anomalies critiques (brute force, accès no
 
 Python, Pandas, Scikit-learn, Streamlit, Plotly, SQLite, Faker, Pytest, Git/GitHub.
 
-## Rapport
-
-Le rapport complet du projet (méthodologie, résultats, analyse) est disponible dans `reports/`.
